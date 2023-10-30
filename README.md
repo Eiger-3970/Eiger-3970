@@ -14,17 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Profile details card
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eiger-3970&theme=2077
 
-# Top languages used in repository card
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eiger-3970&theme=2077
+![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eiger-3970&theme=2077)
 
-# Top languages in commits card
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eiger-3970&theme=2077
+![Top languages used in repository card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eiger-3970&theme=2077)
 
-# GitHub stats card
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eiger-3970&theme=2077
+![Top languages in commits card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eiger-3970&theme=2077)
 
-# Productive time card
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eiger-3970&theme=2077&utcOffset=+1
+![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eiger-3970&theme=2077)
+
+![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eiger-3970&theme=2077&utcOffset=+1)
