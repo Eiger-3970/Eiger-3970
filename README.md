@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eiger-3970&theme=2077)
-
-![Top languages used in repository card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eiger-3970&theme=2077)
-
-![Top languages in commits card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eiger-3970&theme=2077)
-
-![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eiger-3970&theme=2077)
-
-![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eiger-3970&theme=2077&utcOffset=+1)
+![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eiger-3970&theme=nord_dark)
+![Top languages used in repository card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eiger-3970&theme=nord_dark) ![Top languages in commits card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eiger-3970&theme=nord_dark)
+![GitHub stats card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eiger-3970&theme=nord_dark) ![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eiger-3970&theme=nord_dark&utcOffset=+1)
